@@ -1,6 +1,0 @@
-app:
-  name: "database-query-optimizer-ai"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"
