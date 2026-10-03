@@ -1,0 +1,8 @@
+{
+  "agent_id": "database-query-optimizer-ai",
+  "protocol": "opencode/v1",
+  "capabilities": [
+    "autonomous",
+    "governed"
+  ]
+}

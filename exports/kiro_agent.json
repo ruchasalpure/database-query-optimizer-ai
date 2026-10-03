@@ -1,0 +1,5 @@
+{
+  "name": "database-query-optimizer-ai",
+  "service": "aws-kiro",
+  "version": "1.0.0"
+}

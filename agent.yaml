@@ -1,0 +1,26 @@
+spec_version: "0.1.0"
+name: "database-query-optimizer-ai"
+version: "1.0.0"
+category: "devtools"
+author: "Rucha Salpure"
+description: "Analyzes complex SQL execution plans, index hit ratios, and join topologies to automatically synthesize missing partial, BRIN, and composite indexes"
+capabilities:
+  - "query-plan-synthesis"
+  - "autonomous-decision-making"
+  - "explainable-auditing"
+  - "multi-agent-collaboration"
+skills:
+  - "query-plan-synthesis"
+tools:
+  - "python_executor"
+  - "audit_logger"
+  - "schema_validator"
+runtime:
+  environment: "python3.11"
+  memory_limit: "4GB"
+  timeout_seconds: 300
+governance:
+  audit_logging: true
+  human_in_the_loop: false
+  maker_checker: true
+  explainability_required: true

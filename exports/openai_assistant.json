@@ -1,0 +1,10 @@
+{
+  "name": "database-query-optimizer-ai",
+  "instructions": "You are Database Query Optimizer Ai. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}

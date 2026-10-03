@@ -1,0 +1,4 @@
+spec: nanobot/v1
+name: database-query-optimizer-ai
+runtime: python3.11
+entrypoint: agent.py
